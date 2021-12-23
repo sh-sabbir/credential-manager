@@ -1,0 +1,18 @@
+{
+  "name": "my-wp-credential",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Sabbir Hasan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  },
+  "dependencies": {
+    "glasstron": "^0.1.1"
+  }
+}
